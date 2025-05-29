@@ -148,7 +148,7 @@
       <br>GraphQL
     </td>
     <td align="center" width="96">
-      <a href="#prisma">
+      <a href="#MySql">
         <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="48" height="48" alt="Prisma" />
       </a>
       <br>Prisma
